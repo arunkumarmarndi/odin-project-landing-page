@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+
+.section1{
+    background-color: #1F2937;
+    padding: 10%;
+    display: flex;
+}
+
+.section1 .item1{
+    width: 50%;
+    color:#F9FAF8;
+    padding: 5%;
+}
+
+.section1 .item2{
+    width: 50%;
+    background-color: grey;
+}
