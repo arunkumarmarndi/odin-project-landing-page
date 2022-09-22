@@ -10,9 +10,21 @@
 
 .section1 .item1{
     width: 50%;
-    color:#F9FAF8;
     padding: 5%;
 }
+
+.section1 .heading{
+    font-size:48px;
+    color:#F9FAF8;
+    font-weight: extra-bold;
+}
+
+.section1 .bodytext{
+    font-size:18px;
+    color: #E5E7EB;
+    font-weight: extra-bold;
+}
+
 
 .section1 .item2{
     width: 50%;
