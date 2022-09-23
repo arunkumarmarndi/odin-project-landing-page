@@ -41,9 +41,12 @@
 .section1 .item2{
     width: 50%;
     background-color: grey;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
-.item2 .placeholder{
+.placeholder-text{
     color:white;
     font-size: 18px;
     text-align: center;
