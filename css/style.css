@@ -9,8 +9,7 @@
 }
 
 .section1 .item1{
-    width: 50%;
-    padding: 5%;
+    width: 50%; 
 }
 
 .section1 .heading{
@@ -23,10 +22,29 @@
     font-size:18px;
     color: #E5E7EB;
     font-weight: extra-bold;
+    margin-bottom: 5%;
 }
 
+.btn{
+    border: 0;
+    border-radius: 6px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 16px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin:0;
+}
 
 .section1 .item2{
     width: 50%;
     background-color: grey;
+}
+
+.item2 .placeholder{
+    color:white;
+    font-size: 18px;
+    text-align: center;
 }
