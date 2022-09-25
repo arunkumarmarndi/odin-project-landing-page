@@ -16,8 +16,9 @@
 .row1{
     display: flex;
     flex-direction: row;
-    padding-top: 0.1%;
+    padding-top: 0.01%;
     padding-bottom: 10%;
+    margin-top: 0;
 }
 
 
