@@ -2,23 +2,30 @@
     margin: 0;
 }
 
-.section1{
+.container1{
     background-color: #1F2937;
     padding: 10%;
     display: flex;
+    flex-direction: column;
+
 }
 
-.section1 .item1{
+.row2{
+    flex-direction: row;
+    display: flex;
+}
+
+.row2 .item1{
     width: 50%; 
 }
 
-.section1 .heading{
+.row2 .heading{
     font-size:48px;
     color:#F9FAF8;
     font-weight: extra-bold;
 }
 
-.section1 .bodytext{
+.row2 .bodytext{
     font-size:18px;
     color: #E5E7EB;
     font-weight: extra-bold;
@@ -38,7 +45,7 @@
     margin:0;
 }
 
-.section1 .item2{
+.row2 .col2{
     width: 50%;
     background-color: grey;
     justify-content: center;
