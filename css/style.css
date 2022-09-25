@@ -4,17 +4,40 @@
 
 .container1{
     background-color: #1F2937;
-    padding: 10%;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
     display: flex;
     flex-direction: column;
 
 }
 
-.row2{
-    flex-direction: row;
+.row1{
     display: flex;
+    flex-direction: row;
+    padding-top: 1%;
+    padding-bottom: 10%;
 }
 
+.row2{
+    display: flex;
+    flex-direction: row;
+}
+
+.hlinks{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.row1 .header-logo{
+    flex: 53%;
+}
+.row1 .header-links{
+    flex: 37%;
+}
 .row2 .item1{
     width: 50%; 
 }
