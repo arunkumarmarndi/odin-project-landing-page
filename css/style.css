@@ -115,24 +115,6 @@
     padding: 1%;
     align-items: center;
     justify-content: center;
-<<<<<<< HEAD
-}
-
-.container2 .row2 .subcontainer{
-    flex-direction: column;
-    justify-content: center;
-}
-
-.container2 .row2 .subcontainer .item{
-    border-style: solid;
-    border-radius: 6px;
-    border-color: #3882F6;
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-}
-
-=======
     gap:30px;
 
 }
@@ -155,4 +137,3 @@
 .container2 .row2 .item .some-text{
     text-align: center;
 }
->>>>>>> master
