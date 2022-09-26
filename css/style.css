@@ -115,6 +115,7 @@
     padding: 1%;
     align-items: center;
     justify-content: center;
+<<<<<<< HEAD
 }
 
 .container2 .row2 .subcontainer{
@@ -131,3 +132,27 @@
     height: 100px;
 }
 
+=======
+    gap:30px;
+
+}
+
+.container2 .row2 .item{
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+}
+
+.container2 .row2 .item .box{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3882F6;
+    width: 200px;
+    height: 200px;
+}
+
+
+.container2 .row2 .item .some-text{
+    text-align: center;
+}
+>>>>>>> master
