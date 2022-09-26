@@ -115,15 +115,25 @@
     padding: 1%;
     align-items: center;
     justify-content: center;
-    gap:50px;
+    gap:30px;
+
 }
 
 .container2 .row2 .item{
-    border: 5px thick;
+    flex-direction: column;
+    width: 200px;
+    height: 200px;
+}
+
+.container2 .row2 .item .box{
     border-style: solid;
     border-radius: 10px;
     border-color: #3882F6;
     width: 200px;
     height: 200px;
+}
 
+
+.container2 .row2 .item .some-text{
+    text-align: center;
 }
