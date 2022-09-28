@@ -144,15 +144,29 @@
 
 .container3{
     background-color: #E5E7EB;
-    padding: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 8%;
+    padding-bottom: 5%;
     display: flex;
-    align-items: center;
+    flex-direction: column;
 }
 
-.container3 .row{
+.container3 .row1{
     padding-left: 20%;
     padding-right: 20%;
     font-style: italic;
     font-size: 36px;
     text-align: justify;
+    padding-bottom: 0;
+}
+
+.container3 .row2{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 0;
+    padding-bottom: 0;
+    font-size: 24px;
+    margin-left: auto;
+    font-weight: bold;
 }
