@@ -180,6 +180,35 @@
 }
 
 .container4 .action-container{
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 10px;
     background-color: #3882F6;
     display: flex;
+    padding: 5%;
+}
+
+.container4 .col1{
+    flex:80%;
+    color: white;
+}
+
+.container4 .col2{
+    flex:20%;
+    display: flex;
+    align-items: center;
+}
+
+.btn-part2{
+    border-style: solid;
+    border-color: white;
+    border-radius: 6px;
+    background-color: #3882F6;
+    color: white;
+    font-size: 16px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin:0;
 }
