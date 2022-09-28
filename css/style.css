@@ -170,3 +170,16 @@
     margin-left: auto;
     font-weight: bold;
 }
+
+.container4{
+    background-color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.container4 .action-container{
+    background-color: #3882F6;
+    display: flex;
+}
