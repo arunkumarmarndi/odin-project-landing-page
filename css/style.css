@@ -25,6 +25,7 @@
 .row2{
     display: flex;
     flex-direction: row;
+    margin-bottom: 5%;
 }
 
 .hlinks{
@@ -96,6 +97,8 @@
     background-color: white;
     display: flex;
     flex-direction: column;
+    padding-top: 5%;
+    padding-bottom: 7%;
 }
 
 .container2 .row1{
@@ -136,4 +139,12 @@
 
 .container2 .row2 .item .some-text{
     text-align: center;
+}
+
+
+.container3{
+    background-color: #E5E7EB;
+    padding: 10%;
+    display: flex;
+    align-items: center;
 }
